@@ -1,6 +1,6 @@
 # osx-vim-app
 
-A short amount of AppleScript code that produces an app that launches vim. You can add this app to the Dock, etc. so that you don't need to launch vim from the terminal.
+A short amount of AppleScript code that produces an OS X app that launches vim. You can add this app to the Dock, etc. so that you don't need to launch vim from the terminal.
 
 To produce this, open Automator in OS X then:
  - New > Application...
